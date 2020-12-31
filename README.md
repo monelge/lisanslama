@@ -1,3 +1,3 @@
-<efatura>31.12.2021</efatura>
-<adanatasima>31.12.2021</adanatasima>
-<mersintas>31.12.2021</mersintas>
+<efatura>31.12.2019</efatura>
+<adanatasima>31.12.2019</adanatasima>
+<mersintas>31.12.2019</mersintas>
