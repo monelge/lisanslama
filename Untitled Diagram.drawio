@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T11:38:53.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" version="19.0.0" etag="iPxppFXlgeXhxS9OA6cS" type="github"><diagram id="4gEi6t9Oahm_gOEElXQ0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-06T11:47:26.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="jYhxOr08dyVCp7s8UVuX" version="19.0.0" type="github">
+  <diagram id="4gEi6t9Oahm_gOEElXQ0" name="Page-1">
+    <mxGraphModel dx="1220" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y4WozerrmqhtMJ1aDjtZ-1" target="y4WozerrmqhtMJ1aDjtZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-1" value="Katılımcı &lt;br&gt;Dilekçe İle başvuru&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y4WozerrmqhtMJ1aDjtZ-2" target="y4WozerrmqhtMJ1aDjtZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y4WozerrmqhtMJ1aDjtZ-2" target="y4WozerrmqhtMJ1aDjtZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-2" value="Tahsise uygun &lt;br&gt;arsa varmı?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-4" value="Katılımıcya Red cevabı bildiriliyor." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y4WozerrmqhtMJ1aDjtZ-8" target="y4WozerrmqhtMJ1aDjtZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-8" value="Yönetim Kuruluna gündem maddesi ekleniyor" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4WozerrmqhtMJ1aDjtZ-10" target="y4WozerrmqhtMJ1aDjtZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y4WozerrmqhtMJ1aDjtZ-10" target="y4WozerrmqhtMJ1aDjtZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-10" value="Yönetim Ugun &lt;br&gt;Gördümü?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="450" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-13" value="Davet yazısı Gönderiliyor.&lt;br&gt;(Tebliğ tarihinden itibaren 15gün)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-15" value="HAYIR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-17" value="HAYIR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-18" value="EVET" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-19" value="EVET" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y4WozerrmqhtMJ1aDjtZ-20" value="EVET" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="555" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
