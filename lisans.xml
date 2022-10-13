@@ -4,9 +4,10 @@
 		<version>1.0.0.0 (1.01.2000 00:00:00)</version>
 		<efatura>
 			<sube id="1001">31/12/2022</sube>
-			<sube id="16001">31.12.2022</sube>
-			<sube id="20001">31.12.2022</sube>
-			<sube id="27001">31.12.2022</sube>
+			<sube id="16001">31/12/2022</sube>
+			<sube id="20001">31/12/2022</sube>
+			<sube id="27001">31/12/2022</sube>
+			<sube id="27001">31/12/2022</sube>
 		</efatura>
 	</firma>
 	<firma adi="AdanaTas">
