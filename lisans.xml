@@ -3,24 +3,24 @@
 	<firma adi="AdanaEksp">
 		<version>1.0.0.1</version>
 		<efatura>
-			<sube id="1001">31/12/2022</sube>
-			<sube id="16001">31/12/2022</sube>
-			<sube id="20001">31/12/2022</sube>
-			<sube id="27001">31/12/2022</sube>
-			<sube id="44001">31/12/2022</sube>
-			<sube id="42001">31/12/2022</sube>
+			<sube id="1001">31/12/2024</sube>
+			<sube id="16001">31/12/2024</sube>
+			<sube id="20001">31/12/2024</sube>
+			<sube id="27001">31/12/2024</sube>
+			<sube id="44001">31/12/2024</sube>
+			<sube id="42001">31/12/2024</sube>
 		</efatura>
 	</firma>
 	<firma adi="AdanaTas">
 		<version>1.0.0.1</version>
 		<efatura>
-			<sube id="1001">31/12/2022</sube>
+			<sube id="1001">31/12/2024</sube>
 		</efatura>
 	</firma>
 	<firma adi="MersinTas">
 		<version>1.0.0.1</version>
 		<efatura>
-			<sube id="33001">31/12/2022</sube>
+			<sube id="33001">31/12/2024</sube>
 		</efatura>
 	</firma>
 </lisans>
